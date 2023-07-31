@@ -1,0 +1,21 @@
+body{
+    background-color: peru;
+}
+#hello{
+    margin-top: 10%;
+}
+#hello2{
+    margin-top: 12PX;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-style: oblique;
+font-weight: bolder;
+color: black;
+
+}
+input{
+    color:blue;
+    width: 200px;
+    height: 20px;
+}
